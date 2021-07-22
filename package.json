@@ -1,0 +1,9 @@
+
+{
+  "name" : "MCRound",
+  "scripts": {
+    "CREATEUSER": "node ./src/utils/user",
+    "ATTENDCONTEST": "node ./src/utils/contest",
+    "LISTQUESTION": "node ./src/utils/questions"
+  }
+}
